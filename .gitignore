@@ -1,0 +1,19 @@
+# Python cache / envs
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual envs
+venv/
+.venv/
+env/
+
+# Jupyter / Colab
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
